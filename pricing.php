@@ -1,8 +1,3 @@
-
-
-
-
-
 <!doctype html>
 <html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"  >
   <head>
@@ -56,15 +51,6 @@
       
          plp-add-to-cart
       
-      
-        
-          
-            
-              
-            
-          
-        
-      
     "
     data-description="plp-mobile-editor-column"
     tabindex="-1"
@@ -96,24 +82,7 @@
             </span>
           </a>
         </div>
-      
-
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
 
 <header
   data-test="header"
@@ -121,9 +90,7 @@
   
   class="
     
-      
-        
-      
+   
     
     header theme-col--primary
   "
@@ -437,17 +404,8 @@
       style="
 
 
-
-
-
-
   
     border-width: 0px !important;
-  
-
-
-
-  
 
 
 
@@ -510,17 +468,7 @@
 
       <div class="header-display-desktop" data-content-field="site-title">
         
-
-        
-
-        
-
-        
-
-        
-
-        
-        
+ 
           
           <!-- Social -->
           
@@ -554,11 +502,6 @@
       </a>
     </div>
   
-  
-  
-
-
-  
     <div class="header-nav-item header-nav-item--collection">
       <a
         href="http://localhost/contact.php"
@@ -570,10 +513,6 @@
     </div>
   
   
-  
-
-
-
                   </nav>
                 </div>
               </div>
@@ -617,13 +556,7 @@
           <!-- Actions -->
           <div class="header-actions header-actions--right">
             
-            
-
-            
-
           
-          
-
             
             <div class="showOnMobile">
               
@@ -637,9 +570,7 @@
             
           </div>
         
-          
-
-
+        
 <style>
   .top-bun, 
   .patty, 
@@ -671,9 +602,6 @@
   </button>
 </div>
 
-        
-        
-        
         
         
 
@@ -777,13 +705,7 @@
           <div class="header-actions header-actions--right">
             
             
-
-            
-
-          
-          
-
-            
+     
             <div class="showOnMobile">
               
             </div>
@@ -797,7 +719,6 @@
           </div>
         
           
-
 
 <style>
   .top-bun, 
@@ -830,9 +751,6 @@
   </button>
 </div>
 
-        
-        
-        
         
         
       </div>
@@ -1157,13 +1075,6 @@
 <article class="sections" id="sections" data-page-sections="63cad974ea18200753e18bec">
   
   
-    
-    
-
-
-  
-
-
 <section
   data-test="page-section"
   
@@ -1242,10 +1153,6 @@
       class="content"
       
     >
-      
-      
-      
-      
       
       
       <div data-fluid-engine="true"><style>
@@ -1329,27 +1236,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div></div></div></div>
     </div>
   
@@ -1360,11 +1246,7 @@
   
 </article>
 
-
-          
-
-          
-            
+      
           
         
       </main>
@@ -1394,15 +1276,6 @@
       
         <footer class="sections" id="footer-sections" data-footer-sections>
   
-  
-  
-  
-  
-  
-    
-    
-
-
   
 
 
@@ -1492,9 +1365,6 @@
       
       
       
-      
-      
-      
       <div data-fluid-engine="true"><style>
 
 .fe-64502394c83c54422f047cbe {
@@ -1572,25 +1442,6 @@
 <div class="sqs-html-content">
   <h3 style="text-align:center;white-space:pre-wrap;"><a href="index.php"><img src="gold-pass-logo.png" /></a></h3><p style="text-align:center;white-space:pre-wrap;" class=""><a href="http://localhost:8080/myapp/pricing.html">Pricing</a>    <a href="http://localhost:8080/myapp/contact.html">Contact</a></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="mailto:goldpass@gmail.com?subject=Question%20about%20goldPass&amp;">goldpass@gmail.com</a></p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -26,7 +26,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // If there are no errors, proceed with processing the form data
     if (empty($name_err) && empty($email_err)) {
         // Here you can process the form data, such as saving to a database or sending an email
-        // For this example, we'll just print the submitted data
+        //  print the submitted data
         echo "Submitted name: " . $name . "<br>";
         echo "Submitted email: " . $email;
     }
@@ -41,7 +41,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <title>Form Validation</title>
 </head>
 <body>
-    <h2>Sample Form</h2>
+    <h2>Contact Us</h2>
     <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
         <div>
             <label for="name">Name:</label>

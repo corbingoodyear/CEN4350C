@@ -1,7 +1,3 @@
-
-
-
-
 <!doctype html>
 <html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"  >
   <head>
@@ -413,20 +409,8 @@
       style="
 
 
-
-
-
-
-  
     border-width: 0px !important;
   
-
-
-
-  
-
-
-
 "
     ></div>
     <div
@@ -450,14 +434,7 @@
       
        header-mobile-layout-logo-left-nav-right
       
-      
-      
-      
-      
-      
-      
-      
-      
+       
        header-layout-branding-center
       
       
@@ -466,11 +443,6 @@
       
       '
       style="
-
-
-
-
-
 
   
     padding: 0;
@@ -640,11 +612,6 @@
 </div>
 
         
-        
-        
-        
-        
-
       </div>
       <div class="header-display-mobile" data-content-field="site-title">
         
@@ -680,10 +647,6 @@
     </div>
   
   
-  
-
-
-  
     <div class="header-nav-item header-nav-item--collection header-nav-item--active">
       <a
         href="/contact"
@@ -697,10 +660,6 @@
     </div>
   
   
-  
-
-
-
                   </nav>
                 </div>
               </div>
@@ -744,13 +703,7 @@
           <!-- Actions -->
           <div class="header-actions header-actions--right">
             
-            
-
-            
-
-          
-          
-
+      
             
             <div class="showOnMobile">
               
@@ -764,8 +717,6 @@
             
           </div>
         
-          
-
 
 <style>
   .top-bun, 
@@ -798,11 +749,7 @@
   </button>
 </div>
 
-        
-        
-        
-        
-        
+              
       </div>
     </div>
   </div>
@@ -1216,10 +1163,6 @@
     >
       
       
-      
-      
-      
-      
       <div data-fluid-engine="true"><style>
 
 .fe-63cadf417d457e10e58f6ab5 {
@@ -1364,11 +1307,7 @@
 
   
 </article>
-
-
-          
-
-          
+    
         
       </main>
       <script type="text/javascript">

@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 <!doctype html>
 <html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"  >
   <head>
@@ -69,15 +62,6 @@
       
          plp-add-to-cart
       
-      
-        
-          
-            
-              
-            
-          
-        
-      
     "
     data-description="plp-mobile-editor-column"
     tabindex="-1"
@@ -91,9 +75,6 @@
           <a href="/cart" class="icon icon--stroke icon--fill icon--cart sqs-custom-cart">
             <span class="Cart-inner">
               
-
-
-
   <svg class="icon icon--cart" viewBox="0 0 31 24">
   <g class="svg-icon cart-icon--odd">
     <circle fill="none" stroke-miterlimit="10" cx="22.5" cy="21.5" r="1"/>
@@ -109,24 +90,6 @@
             </span>
           </a>
         </div>
-      
-
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <header
   data-test="header"
@@ -450,18 +413,9 @@
       style="
 
 
-
-
-
-
   
     border-width: 0px !important;
   
-
-
-
-  
-
 
 
 "
@@ -475,45 +429,23 @@
       style="
 
 
-  
 "
     ></div>
     
     
 
-    <div class='header-inner container--fluid
-      
-      
+    <div class='header-inner container--fluid  
       
        header-mobile-layout-logo-left-nav-right
       
-      
-      
-      
-      
-      
-      
-      
-      
+
        header-layout-branding-center
-      
-      
-      
-      
-      
+    
       '
       style="
 
-
-
-
-
-
   
     padding: 0;
-  
-
-
 
 "
       data-test="header-inner"
@@ -523,18 +455,7 @@
 
       <div class="header-display-desktop" data-content-field="site-title">
         
-
-        
-
-        
-
-        
-
-        
-
-        
-        
-          
+  
           <!-- Social -->
           
         
@@ -543,17 +464,12 @@
           <div class="header-title-nav-wrapper">
             
 
-            
-
-            
               
               <!-- Nav -->
               <div class="header-nav">
                 <div class="header-nav-wrapper">
                   <nav class="header-nav-list">
-                    
-
-
+      
   
     <div class="header-nav-item header-nav-item--collection">
       <a
@@ -564,10 +480,6 @@
         Pricing
       </a>
     </div>
-  
-  
-  
-
 
   
     <div class="header-nav-item header-nav-item--collection">
@@ -579,10 +491,6 @@
         Contact
       </a>
     </div>
-  
-  
-  
-
 
 
                   </nav>
@@ -626,14 +534,7 @@
           
           <!-- Actions -->
           <div class="header-actions header-actions--right">
-            
-            
-
-            
-
-          
-          
-
+      
             
             <div class="showOnMobile">
               
@@ -647,9 +548,6 @@
             
           </div>
         
-          
-
-
 <style>
   .top-bun, 
   .patty, 
@@ -681,11 +579,6 @@
   </button>
 </div>
 
-        
-        
-        
-        
-        
 
       </div>
       <div class="header-display-mobile" data-content-field="site-title">
@@ -699,9 +592,6 @@
           <div class="header-title-nav-wrapper">
             
 
-            
-
-            
               
               <!-- Nav -->
               <div class="header-nav">
@@ -723,9 +613,6 @@
   
   
   
-
-
-  
     <div class="header-nav-item header-nav-item--collection">
       <a
         href="/contact"
@@ -737,8 +624,6 @@
     </div>
   
   
-  
-
 
 
                   </nav>
@@ -784,14 +669,7 @@
           <!-- Actions -->
           <div class="header-actions header-actions--right">
             
-            
 
-            
-
-          
-          
-
-            
             <div class="showOnMobile">
               
             </div>
@@ -804,8 +682,6 @@
             
           </div>
         
-          
-
 
 <style>
   .top-bun, 
@@ -840,18 +716,12 @@
 
         
         
-        
-        
-        
       </div>
     </div>
   </div>
   <!-- (Mobile) Menu Navigation -->
   <div class="header-menu header-menu--folder-list
     light
-    
-    
-    
     
     "
     data-current-styles="{
@@ -1107,9 +977,7 @@
             <!-- Menu Navigation -->
 <div class="header-menu-nav-wrapper">
   
-    
-      
-        
+     
           
             <div class="container header-menu-nav-item header-menu-nav-item--collection">
               <a
@@ -1122,11 +990,6 @@
               </a>
             </div>
           
-        
-      
-    
-      
-        
           
             <div class="container header-menu-nav-item header-menu-nav-item--collection">
               <a
@@ -1139,10 +1002,7 @@
               </a>
             </div>
           
-        
-      
-    
-  
+       
 </div>
 
             
@@ -1161,12 +1021,6 @@
         
           
 <article class="sections" id="sections" data-page-sections="63c6d9545f76983110da758c">
-  
-  
-    
-    
-
-
   
 
 
@@ -1278,10 +1132,6 @@
   data-animation="none"
   data-fluid-engine-section
    
-  
-    
-  
-  
 >
   <div
     class="section-border" 
@@ -1289,18 +1139,7 @@
   >
     <div class="section-background">
     
-      
-        
-        
-          
-
-
-
-
-
-  
-
-
+   
 
 <img alt="" data-src="https://images.squarespace-cdn.com/content/v1/63c6d94d8d670b176f2a2758/53ae7971-653c-4275-81ae-b366bec8b2d9/woman-drinking-coffee-wide.jpg" data-image="https://images.squarespace-cdn.com/content/v1/63c6d94d8d670b176f2a2758/53ae7971-653c-4275-81ae-b366bec8b2d9/woman-drinking-coffee-wide.jpg" data-image-dimensions="5472x3648" data-image-focal-point="0.5,0.5" alt="woman-drinking-coffee-wide.jpg" data-load="false" elementtiming="nbf-background" src="https://images.squarespace-cdn.com/content/v1/63c6d94d8d670b176f2a2758/53ae7971-653c-4275-81ae-b366bec8b2d9/woman-drinking-coffee-wide.jpg" width="5472" height="3648" alt="" sizes="(max-width: 799px) 200vw, 100vw" style="display:block;object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/63c6d94d8d670b176f2a2758/53ae7971-653c-4275-81ae-b366bec8b2d9/woman-drinking-coffee-wide.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/63c6d94d8d670b176f2a2758/53ae7971-653c-4275-81ae-b366bec8b2d9/woman-drinking-coffee-wide.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/63c6d94d8d670b176f2a2758/53ae7971-653c-4275-81ae-b366bec8b2d9/woman-drinking-coffee-wide.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/63c6d94d8d670b176f2a2758/53ae7971-653c-4275-81ae-b366bec8b2d9/woman-drinking-coffee-wide.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/63c6d94d8d670b176f2a2758/53ae7971-653c-4275-81ae-b366bec8b2d9/woman-drinking-coffee-wide.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/63c6d94d8d670b176f2a2758/53ae7971-653c-4275-81ae-b366bec8b2d9/woman-drinking-coffee-wide.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/63c6d94d8d670b176f2a2758/53ae7971-653c-4275-81ae-b366bec8b2d9/woman-drinking-coffee-wide.jpg?format=2500w 2500w" fetchpriority="high" loading="eager" decoding="async" data-loader="sqs">
 
@@ -1324,12 +1163,7 @@
     <div
       class="content"
       
-    >
-      
-      
-      
-      
-      
+    
       
       <div data-fluid-engine="true"><style>
 
@@ -1410,43 +1244,12 @@
 </div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div></div></div></div>
     </div>
   
   </div>
   
 </section>
-
-  
-    
-    
-
-
-  
-
 
 <section
   data-test="page-section"
@@ -1456,20 +1259,7 @@
     
       user-items-list-section
       full-bleed-section
-    
-    
-    
-      
-    
-    
-      
-    
-    
-    
-    
-      
-    
-    
+   
     light'
   
   data-section-id="63c6d9545f76983110da75ae"
@@ -1531,29 +1321,7 @@
       class="content"
       
     >
-      
-      
-      
-      
-      
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
 
 <div
   class="user-items-list"
@@ -1583,49 +1351,12 @@
       id="63c6d9545f76983110da75ae"
       style= "padding-bottom: 70px;"
       data-section-title-alignment="center"
-    >
+      <p class="" style="white-space:pre-wrap;">Current Locations</p>
+
+    ><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3506.483320632064!2d-81.5089116234826!3d28.495102890306356!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88e77f519ed28ddd%3A0xac8184daf8b43b36!2sPlanet%20Smoothie!5e0!3m2!1sen!2sus!4v1713489401218!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       <p class="" style="white-space:pre-wrap;">How It Works</p>
     </div>
   
-
-  
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1989,12 +1720,7 @@
   
 </ul>
 
-  
-
-  
-
-  
-
+ 
   
 </div>
 
@@ -2006,14 +1732,6 @@
   </div>
   
 </section>
-
-  
-    
-    
-
-
-  
-
 
 <section
   data-test="page-section"
@@ -2137,18 +1855,7 @@
   >
     <div class="section-background">
     
-      
-        
-        
-          
-
-
-
-
-
   
-
-
 
 <img alt="" data-src="https://images.squarespace-cdn.com/content/v1/63c6d94d8d670b176f2a2758/ec89eb48-aade-4344-beef-12cb83e6ffad/woman-showing-phone-coffee-cup-narrow-confirmation-screen-nologo.jpg" data-image="https://images.squarespace-cdn.com/content/v1/63c6d94d8d670b176f2a2758/ec89eb48-aade-4344-beef-12cb83e6ffad/woman-showing-phone-coffee-cup-narrow-confirmation-screen-nologo.jpg" data-image-dimensions="617x1141" data-image-focal-point="0.5,0.5" alt="woman-showing-phone-coffee-cup-narrow-confirmation-screen-nologo.jpg" data-load="false" elementtiming="nbf-background" src="https://images.squarespace-cdn.com/content/v1/63c6d94d8d670b176f2a2758/ec89eb48-aade-4344-beef-12cb83e6ffad/woman-showing-phone-coffee-cup-narrow-confirmation-screen-nologo.jpg" width="617" height="1141" alt="" sizes="(max-width: 799px) 200vw, 100vw" style="display:block;object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/63c6d94d8d670b176f2a2758/ec89eb48-aade-4344-beef-12cb83e6ffad/woman-showing-phone-coffee-cup-narrow-confirmation-screen-nologo.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/63c6d94d8d670b176f2a2758/ec89eb48-aade-4344-beef-12cb83e6ffad/woman-showing-phone-coffee-cup-narrow-confirmation-screen-nologo.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/63c6d94d8d670b176f2a2758/ec89eb48-aade-4344-beef-12cb83e6ffad/woman-showing-phone-coffee-cup-narrow-confirmation-screen-nologo.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/63c6d94d8d670b176f2a2758/ec89eb48-aade-4344-beef-12cb83e6ffad/woman-showing-phone-coffee-cup-narrow-confirmation-screen-nologo.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/63c6d94d8d670b176f2a2758/ec89eb48-aade-4344-beef-12cb83e6ffad/woman-showing-phone-coffee-cup-narrow-confirmation-screen-nologo.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/63c6d94d8d670b176f2a2758/ec89eb48-aade-4344-beef-12cb83e6ffad/woman-showing-phone-coffee-cup-narrow-confirmation-screen-nologo.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/63c6d94d8d670b176f2a2758/ec89eb48-aade-4344-beef-12cb83e6ffad/woman-showing-phone-coffee-cup-narrow-confirmation-screen-nologo.jpg?format=2500w 2500w" fetchpriority="low" loading="lazy" decoding="async" data-loader="sqs">
 
@@ -2447,33 +2154,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-
-
 <div class="form-wrapper"
   
 >
@@ -2489,29 +2169,6 @@
 </div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
 </div></div></div></div></div>
     </div>
   
@@ -2523,10 +2180,6 @@
 </article>
 
 
-          
-
-          
-            
           
         
       </main>
@@ -2557,16 +2210,6 @@
         <footer class="sections" id="footer-sections" data-footer-sections>
   
   
-  
-  
-  
-  
-    
-    
-
-
-  
-
 
 <section
   data-test="page-section"
@@ -2734,25 +2377,6 @@
 <div class="sqs-html-content">
   <h3 style="text-align:center;white-space:pre-wrap;"><a href="index.php"><img src="gold-pass-logo.png" /></a></h3><p style="text-align:center;white-space:pre-wrap;" class=""><a href="http://localhost:8080/myapp/pricing.html">Pricing</a>    <a href="http://localhost:8080/myapp/contact.html">Contact</a></p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="mailto:goldpass@gmail.com?subject=Question%20about%20goldPass&amp;">goldpass@gmail.com</a></p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
